@@ -1,6 +1,17 @@
 # Degree
 - degree: Bachelor of Science (Honors)  
   uni: University of Delhi
-  year: 2019
-  # awards:
+  year: 2016 &mdash; 2019
   summary: Computer Science Major 
+
+# high school
+- degree: High School
+  uni: AISSCE (Science)
+  year: 2014 &mdash; 2016
+  summary: Computer Science Stream
+  
+# schooling
+- degree: Secondary Schooling
+  uni: AISSE
+  year: 2014
+  summary: Science Stream
